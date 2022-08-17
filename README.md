@@ -62,7 +62,8 @@
 
 
 <br>
-<span><h2 align="center">Languages and Tools:</h2>
+<h2 align="center">Languages and Tools:</h2>
+<span>
   <br>
   <p align="center">
       <img src="https://www.svgrepo.com/show/184143/java.svg" alt="Java" height="55"/>
