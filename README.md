@@ -65,7 +65,6 @@
       <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" width="55" height="55"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="55" height="55"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="55" height="55"/>
-      <img src="https://www.svgrepo.com/show/353614/c-plusplus.svg" alt="C++" height="55"/>
       <img src="https://www.svgrepo.com/show/374016/python.svg" alt="Pyhton" height="45"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS"  height="55"/>
       <img src="https://www.svgrepo.com/show/354099/mysql.svg" alt="MySQL"  height="55"/>
@@ -78,17 +77,14 @@
 <br>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Soumya048&" alt="Soumya048" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Soumya048&" alt="Soumya048" width="400px" />
 
-  <br>
-  <br>
-    
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Soumya048&show_icons=true&locale=en" alt="Soumya048" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Soumya048&show_icons=true&locale=en" alt="Soumya048" width="400px" />
    
    <br>
   <br>
   <p align="center">
-    <img img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Soumya048&show_icons=true&locale=en&layout=compact" alt="Soumya048" />
+    <img img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Soumya048&show_icons=true&locale=en&layout=compact" alt="Soumya048" width="400px"/>
   </p>
   
   <br>
