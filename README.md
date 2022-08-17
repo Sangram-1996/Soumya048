@@ -62,9 +62,10 @@
 
 
 <br>
-<h2 align="center">Languages and Tools:</h2>
+
 <span>
   <br>
+  <h2 align="center">Languages and Tools:</h2>
   <p align="center">
       <img src="https://www.svgrepo.com/show/184143/java.svg" alt="Java" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="55" height="55"/>
