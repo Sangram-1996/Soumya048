@@ -23,7 +23,7 @@
 <br>
 <br>
 
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/75193540/156818786-1dc5df82-3864-4628-a77d-c34f8c6ceeeb.gif" width="350px" />
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/75193540/156818786-1dc5df82-3864-4628-a77d-c34f8c6ceeeb.gif" width="300px" />
 
 <a  href="https://www.linkedin.com/in/soumyakant-swain-85b162b6/">
   <img align="left" alt="Soumya's LinkedIN" width="100px" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/linkedin_button_icon_151847.png" />
