@@ -81,9 +81,10 @@
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Soumya048&" alt="Soumya048" />
 
+  <br>
+    
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Soumya048&show_icons=true&locale=en" alt="Soumya048" />
   
-  <br>
   <br>
   <p align="center">
     <img img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Soumya048&show_icons=true&locale=en&layout=compact" alt="Soumya048" />
