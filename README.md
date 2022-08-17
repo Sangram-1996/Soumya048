@@ -23,12 +23,10 @@
 <br>
 <br>
 
-
-  ![animation_500_kxa883sd](https://user-images.githubusercontent.com/75193540/156818786-1dc5df82-3864-4628-a77d-c34f8c6ceeeb.gif)
-
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/75193540/156818786-1dc5df82-3864-4628-a77d-c34f8c6ceeeb.gif" width="350px" />
 
 <a  href="https://www.linkedin.com/in/soumyakant-swain-85b162b6/">
-  <img align="left" alt="Tazammul's LinkedIN" width="100px" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/linkedin_button_icon_151847.png" />
+  <img align="left" alt="Soumya's LinkedIN" width="100px" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/linkedin_button_icon_151847.png" />
 </a>
 
 <a href="https://leetcode.com/soumyakantswain5/">
@@ -43,7 +41,7 @@
 <br>
 <br>
 
-<p align="left" width="45">
+<p align="left" width="45px">
 
 - 🔭 I’m currently Studying at [MASAI SCHOOL](https://course.masaischool.com/)
 - 🌱 I’m currently learning **DBMS......**
@@ -55,6 +53,7 @@
 - ⚡ Fun fact: I like more to code at night.
 
 </p>
+
 
 <br>
 <span><h2 align="center">Languages and Tools:</h2>
