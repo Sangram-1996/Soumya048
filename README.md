@@ -50,7 +50,7 @@
 <p align="left" width="45px">
 
 - 🔭 I’m currently Studying at [MASAI SCHOOL](https://www.masaischool.com)
-- 🌱 I’m currently learning **DBMS......**
+- 🌱 I’m currently learning **Java Back-end Development......**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **JAVA, MySQL,Spring Boot, Javascript, DSA, HTML, CSS**
 - 📫 How to reach me: **soumyakantswain5@gmail.com**
