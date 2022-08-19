@@ -54,7 +54,7 @@
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **JAVA, MySQL,Spring Boot, Javascript, DSA, HTML, CSS**
 - 📫 How to reach me: **soumyakantswain5@gmail.com**
-- 👨‍💻 All of my projects are available at [My Portfolio]()
+- 👨‍💻 All of my projects are available at [My Portfolio](https://soumyakant-portfolio.netlify.app/)
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1sViE1Aj-cYHd2ggecFuZmnqCLQszygN1/view)
 - ⚡ Fun fact: I like more to code at night.
 
