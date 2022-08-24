@@ -34,6 +34,7 @@
   <img align="left" alt="Soumya's Leetcode" width="100px" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/leetcode_button_icon_151892.png" />
 </a>
 
+/*
 <a href="https://www.hackerrank.com/soumyakantswain5">
   <img align="left" alt="Soumya's Hackerrank" width="100px" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/hackerrank_button_icon_151894.png" />
 </a>
@@ -97,10 +98,10 @@
   
   <br>
   <br>
-
-   <a href="https://github.com/Soumya048"><img alt="Soumya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Soumya048&custom_title=Soumyakant's%20Contribution%20Graph&theme=react-dark" /></a>
-   
 </p>
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Soumya048&theme=vue)
 
 
 
