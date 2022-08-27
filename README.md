@@ -9,7 +9,7 @@
 <a href="https://github.com/Soumya048?tab=followers">
     <img src="https://img.shields.io/github/followers/Soumya048?label=Followers&style=social" alt="GitHub Badge">
 </a>
-<a href="https://github.com/SwarajN/github-profile-views-counter">
+<a href="https://github.com/Soumya048/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Soumya048">
 </a>
 
@@ -34,7 +34,7 @@
   <img align="left" alt="Soumya's Leetcode" width="100px" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/leetcode_button_icon_151892.png" />
 </a>
 
-/*
+
 <a href="https://www.hackerrank.com/soumyakantswain5">
   <img align="left" alt="Soumya's Hackerrank" width="100px" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/hackerrank_button_icon_151894.png" />
 </a>
