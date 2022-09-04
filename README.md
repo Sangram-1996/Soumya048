@@ -100,8 +100,10 @@
   <br>
 </p>
 
+  <p align="center">
+    <img img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Soumya048&theme=vue" alt="Soumya048" width="100%"/>
+  </p>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Soumya048&theme=vue)
 
 
 
