@@ -3,19 +3,10 @@
 <br>
 <br>
 
-
 <p align="center" width="45">
-
-<a href="https://github.com/Soumya048?tab=followers"> 
-    <img src="https://img.shields.io/github/followers/Soumya048?label=Followers&style=social" alt="GitHub Badge">
-</a>
-    
-<a href="https://github.com/Soumya048/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Soumya048">
-</a>
-
+<a href="https://github.com/Soumya048?tab=followers"><img src="https://img.shields.io/github/followers/Soumya048?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Soumya048/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=Soumya048"></a>
 </p>
-
 
 <br>
 
@@ -33,14 +24,20 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soumyakant-swain-85b162b6/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:soumyakantswain5@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+918596836609)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@soumyakantswain5)
+
 ---
 
+### 📜 Blogs
+
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@soumyakantswain5)
+
+---
 ### 👨‍💻 Coding Profiles
 
 [![HackerRank](https://img.shields.io/badge/HackerRank-%23239120.svg?&style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/soumyakantswain5)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/soumyakantswain5/)
 [![Hackerearth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue)](https://www.hackerearth.com/@soumyakantswain5)
+
 ---
 - 🔭 I’m currently Studying at [MASAI SCHOOL](https://www.masaischool.com)
 - 🌱 I’m currently learning **Java Back-end Development......**
@@ -50,6 +47,7 @@
 - 👨‍💻 All of my projects are available at [My Portfolio](https://soumyakant-portfolio.netlify.app/)
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1sViE1Aj-cYHd2ggecFuZmnqCLQszygN1/view)
 - ⚡ Fun fact: I like to code.
+
 ---
 
 ### 📊 Stats
