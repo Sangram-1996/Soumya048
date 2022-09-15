@@ -13,7 +13,7 @@
 <h3 align="center">Eager and highly motivated Aspiring Java Back-end Developer with extensive expertise in website architecture design and web API design. Passionate about application development. Flexible, Detail-Oriented and the ability to finish projects within a tight timeframe.</h3>
 
 <br>
-<p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer" href=" "><img src="https://github-profile-trophy.vercel.app/?username=Soumya048&theme=tokyonight" style="max-width: 100%;"></a> </p>
+<p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer" href=" "><img src="https://github-profile-trophy.vercel.app/?username=Soumya048" style="max-width: 100%;"></a> </p>
 <br>
 
 
