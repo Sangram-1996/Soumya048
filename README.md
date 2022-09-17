@@ -30,7 +30,7 @@
 
 ### 📜 Blogs
 
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&target=_blank)](https://medium.com/@soumyakantswain5)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@soumyakantswain5&target=_blank)
 
 ---
 ### 👨‍💻 Coding Profiles
