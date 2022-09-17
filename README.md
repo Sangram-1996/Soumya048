@@ -71,7 +71,12 @@
 ### 🧩 Frameworks/Libraries
 
 [![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)](https://soumyakant-portfolio.netlify.app/)
+[![SpringBoot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)](https://soumyakant-portfolio.netlify.app/)
+[![Hibernate](https://img.shields.io/badge/Hibernate-%23575757.svg?style=for-the-badge&logo=hibernate&logoColor=white)](https://soumyakant-portfolio.netlify.app/)
+[![JDBC](https://img.shields.io/static/v1?style=for-the-badge&message=JDBC&color=0078D4&label=)](https://soumyakant-portfolio.netlify.app/)
 [![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://soumyakant-portfolio.netlify.app/)
+
+
 
 ### 🗃️ Databases
 
