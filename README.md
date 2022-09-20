@@ -33,6 +33,7 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@soumyakantswain5)
 
 ---
+
 ### 👨‍💻 Coding Profiles
 
 [![HackerRank](https://img.shields.io/badge/HackerRank-%23239120.svg?&style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/soumyakantswain5)
@@ -40,13 +41,14 @@
 [![Hackerearth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue)](https://www.hackerearth.com/@soumyakantswain5)
 
 ---
+
 - 🔭 I’m currently Studying at [MASAI SCHOOL](https://www.masaischool.com)
 - 🌱 I’m currently learning **Java Back-end Development......**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **JAVA, MySQL, Spring Boot, HTML, CSS, Javascript, DSA.**
 - 📫 How to reach me: **soumyakantswain5@gmail.com**
 - 👨‍💻 All of my projects are available at [My Portfolio](https://soumyakant-portfolio.netlify.app/)
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1sViE1Aj-cYHd2ggecFuZmnqCLQszygN1/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1scbtkCbGF0DRebOgVJeqwvMj5fz-EG_n/view)
 - ⚡ Fun fact: I like to code.
 
 ---
@@ -131,132 +133,4 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!---
-
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/75193540/156818786-1dc5df82-3864-4628-a77d-c34f8c6ceeeb.gif" width="350px" />
-
-<hr>
-
-<p align="center" width="45px">
-<a  href="https://www.linkedin.com/in/soumyakant-swain-85b162b6/">
-  <img align="left" alt="Soumya's LinkedIN" width="100px" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/linkedin_button_icon_151847.png" />
-</a>
-
-<a href="https://leetcode.com/soumyakantswain5/">
-  <img align="left" alt="Soumya's Leetcode" width="100px" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/leetcode_button_icon_151892.png" />
-</a>
-
-
-<a href="https://www.hackerrank.com/soumyakantswain5">
-  <img align="left" alt="Soumya's Hackerrank" width="100px" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/hackerrank_button_icon_151894.png" />
-</a>
-
-</p>
-
-
-
-
-<br>
-<br>
-<br>
-
-<hr>
-
-
-<p align="left" width="45px">
-
-- 🔭 I’m currently Studying at [MASAI SCHOOL](https://www.masaischool.com)
-- 🌱 I’m currently learning **Java Back-end Development......**
-- 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **JAVA, MySQL, Spring Boot, HTML, CSS, Javascript, DSA.**
-- 📫 How to reach me: **soumyakantswain5@gmail.com**
-- 👨‍💻 All of my projects are available at [My Portfolio](https://soumyakant-portfolio.netlify.app/)
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1sViE1Aj-cYHd2ggecFuZmnqCLQszygN1/view)
-- ⚡ Fun fact: I like to code.
-
-</p>
-
-
-<br>
-
-<span>
-  <br>
-  <h2 align="center">Languages and Tools:</h2>
-  <p align="center">
-      <img src="https://www.svgrepo.com/show/184143/java.svg" alt="Java" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" width="55" height="55"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="55" height="55"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="55" height="55"/>
-      <img src="https://www.svgrepo.com/show/374016/python.svg" alt="Pyhton" height="45"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS"  height="55"/>
-      <img src="https://www.svgrepo.com/show/354099/mysql.svg" alt="MySQL"  height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55" marginleft="15"/>
-</p></span>
-
-<br><br>
-<h2 align="center">📊 My Github Stats<h2>
-<br>
-
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Soumya048&" alt="Soumya048" width="400px" />
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Soumya048&show_icons=true&locale=en" alt="Soumya048" width="400px" />
-   
-   <br>
-  <br>
-  <p align="center">
-    <img img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Soumya048&show_icons=true&locale=en&layout=compact" alt="Soumya048" width="400px"/>
-  </p>
-  
-  <br>
-  <br>
-</p>
-
-  <p align="center">
-    <img img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Soumya048&theme=vue" alt="Soumya048" width="100%"/>
-  </p>
-
-
-<br>
-
-
-<div align="center">
-<h3>Contact me</h3>
-    <a href="https://www.linkedin.com/in/soumyakant-swain-85b162b6/"><img
-            src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://medium.com/@soumyakantswain5"><img
-            src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
-</div>
-
-
-<hr>
---->
 
