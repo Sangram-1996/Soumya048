@@ -43,7 +43,7 @@
 ---
 
 - 🔭 I’m currently Studying at [MASAI SCHOOL](https://www.masaischool.com)
-- 🌱 I’m currently learning **Java Back-end Development......**
+- 🌱 I’m currently learning **Spring Boot......**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **JAVA, MySQL, Spring Boot, HTML, CSS, Javascript, DSA.**
 - 📫 How to reach me: **soumyakantswain5@gmail.com**
