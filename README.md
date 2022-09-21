@@ -109,6 +109,7 @@
 
 ### 🎓 Education
 
+![Masai](https://img.shields.io/badge/-masai-%23C21325?style=for-the-badge&logo=masai&logoColor=white)
 [![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/user/4629339313f08c3a5f18d9d0b6ed354d)
 [![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)](https://www.freecodecamp.org/fcca6875244-77ce-4373-8796-ba5b71955aca)
 [![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/user/soumyakant-swain/)
