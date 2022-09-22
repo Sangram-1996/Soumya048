@@ -48,7 +48,7 @@
 - 💬 Ask me about **JAVA, MySQL, Spring Boot, HTML, CSS, Javascript, DSA.**
 - 📫 How to reach me: **soumyakantswain5@gmail.com**
 - 👨‍💻 All of my projects are available at [My Portfolio](https://soumyakant-portfolio.netlify.app/)
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1scbtkCbGF0DRebOgVJeqwvMj5fz-EG_n/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1IooIaoNci5PHcCl_Ghf63O-aji7oiGuD/view)
 - ⚡ Fun fact: I like to code.
 
 ---
