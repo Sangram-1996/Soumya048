@@ -130,7 +130,7 @@
   <img alt="Soumyakant's ContributionGraph" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Soumya048&theme=tokyonight" />
 
 ---
-### 📛Badges
+### 📛 Badges
 
 [![@soumya048's Holopin board](https://holopin.io/api/user/board?user=soumya048)](https://holopin.io/@soumya048)
 
