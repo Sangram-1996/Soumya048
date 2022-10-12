@@ -119,8 +119,8 @@
 
 [![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://soumyakant-portfolio.netlify.app/)
 
----
 
+---
 ### 🔝 Most used languages
   <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumya048&theme=github_dark&hide_border=true&hide=Jupyter%20Notebook,css,html,scss&layout=compact" />
 
@@ -129,7 +129,12 @@
 ### 📊 Contribution Graph
   <img alt="Soumyakant's ContributionGraph" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Soumya048&theme=tokyonight" />
 
+---
+### 📛Badges
+
 [![@soumya048's Holopin board](https://holopin.io/api/user/board?user=soumya048)](https://holopin.io/@soumya048)
+
+
 
 
 
