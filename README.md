@@ -43,9 +43,7 @@
 
 ---
 
-- 🔭 I’m currently Studying at [MASAI SCHOOL](https://www.masaischool.com)
-- 🌱 I’m currently learning **Spring Boot......**
-- 👯 I’m looking to collaborate on **Open Source Projects**
+- 🔭 I’m currently working at [Twinleaves](https://www.twinleaves.co/) as a Backend Developer.
 - 💬 Ask me about **JAVA, MySQL, Spring Boot, HTML, CSS, JavaScript, DSA.**
 - 📫 How to reach me: **soumyakantswain5@gmail.com**
 - 👨‍💻 All of my projects are available at [My Portfolio](https://soumyakant-portfolio.netlify.app/)
